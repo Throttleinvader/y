@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Connor Luttrell 
 
 #### Your section leader's name
 
-TODO
+Connor Luttrell 
 
 #### Project title
 
-TODO
+Idols of Death
 
 ***
 
@@ -18,12 +18,11 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
-
+I have gotten most of the project done for at least having the story done
 #### What have you not done for your project yet?
 
-TODO
+I haven't figured out how to incorperate the images when you reach a new part in the story
 
 #### What problems, if any, have you encountered?
 
-TODO
+I've been encountering a problem that causes an error but it happens randomly.
